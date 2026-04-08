@@ -72,11 +72,7 @@ Olá! Sou o **Angelo**, um desenvolvedor **Fullstack** apaixonado por transforma
 
 > 🚧 *Em breve novos projetos incríveis por aqui! Fique de olho.* 🚀
 
-<!--
-Descomente e edite para adicionar seus projetos:
-
-[![Projeto 1](https://github-readme-stats.vercel.app/api/pin/?username=LopesAngelo&repo=NOME_DO_REPO&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/LopesAngelo/NOME_DO_REPO)
--->
+https://github.com/LopesAngelo/Gastos-Inteligentes
 
 ---
 
